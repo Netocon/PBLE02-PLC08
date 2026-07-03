@@ -1,0 +1,2 @@
+../src/libraries/system_LPC11Uxx.c:245:6:SystemCoreClockUpdate	16	static
+../src/libraries/system_LPC11Uxx.c:328:6:SystemInit	16	static
