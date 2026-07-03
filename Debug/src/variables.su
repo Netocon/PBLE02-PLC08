@@ -1,0 +1,6 @@
+../src/variables.c:14:6:addNewStateNode	32	static
+../src/variables.c:62:6:inicializeStateList	16	static
+../src/variables.c:81:6:varInit	8	static
+../src/variables.c:89:6:getState	8	static
+../src/variables.c:93:6:setState	16	static
+../src/variables.c:97:18:getNode	8	static

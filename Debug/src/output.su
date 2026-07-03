@@ -1,0 +1,2 @@
+../src/output.c:22:6:outputInit	8	static
+../src/output.c:27:6:outputPrint	16	static

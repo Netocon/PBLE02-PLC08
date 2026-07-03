@@ -1,0 +1,4 @@
+../src/libraries/serial.c:10:6:serialInit	8	static
+../src/libraries/serial.c:43:6:sendChar	16	static
+../src/libraries/serial.c:51:6:sendString	24	static
+../src/libraries/serial.c:60:6:readChar	8	static

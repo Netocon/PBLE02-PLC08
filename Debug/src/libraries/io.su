@@ -1,0 +1,4 @@
+../src/libraries/io.c:14:6:systemIOInit	8	static
+../src/libraries/io.c:39:6:pinMode	24	static
+../src/libraries/io.c:112:6:digitalWrite	24	static
+../src/libraries/io.c:122:5:digitalRead	16	static
