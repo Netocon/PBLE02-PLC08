@@ -1,3 +1,0 @@
-../src/libraries/endoder.c:17:6:encoderInit	8	static
-../src/libraries/endoder.c:27:6:encoderRotation	40	static
-../src/libraries/endoder.c:80:5:getEncoderPosition	8	static

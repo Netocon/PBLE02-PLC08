@@ -1,5 +1,0 @@
-../src/libraries/timer.c:7:6:timerInit	8	static
-../src/libraries/timer.c:27:6:timerStart	16	static
-../src/libraries/timer.c:35:6:timerWait	8	static
-../src/libraries/timer.c:44:6:delay	24	static
-../src/libraries/timer.c:72:6:delay_us	16	static

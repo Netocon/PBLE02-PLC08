@@ -1,7 +1,0 @@
-../src/libraries/lcd.c:19:6:clockEnablePin	8	static
-../src/libraries/lcd.c:27:6:lcdInit	8	static
-../src/libraries/lcd.c:229:6:sendNibble	16	static
-../src/libraries/lcd.c:256:6:lcdChar	32	static
-../src/libraries/lcd.c:275:6:lcdString	24	static
-../src/libraries/lcd.c:287:6:lcdCommand	32	static
-../src/libraries/lcd.c:306:6:lcdSetCursor	24	static

@@ -1,3 +1,0 @@
-../src/libraries/keys.c:13:6:keysInit	8	static
-../src/libraries/keys.c:22:15:keyRead	8	static
-../src/libraries/keys.c:26:6:keysDebounce	32	static
