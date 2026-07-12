@@ -1,0 +1,31 @@
+#ifndef STATEMACHINE_H_
+#define STATEMACHINE_H_
+
+
+#define NUM_STATES 3
+#define NUM_SUB_STATES 6
+#define NUM_SUB_STATES_ALARM 1
+#define NUM_SUB_STATES_TIME 1
+#define NUM_SUB_STATES_LANGUAGES 4
+
+enum{
+	STATE_ALARM,
+	STATE_TIME,
+	STATE_LANGUAGE,
+	SUB_STATE_ALARM,
+	SUB_STATE_TIME,
+	SUB_STATE_LANGUAGE_1,
+	SUB_STATE_LANGUAGE_2,
+	SUB_STATE_LANGUAGE_3,
+	SUB_STATE_LANGUAGE_4,
+	SUB_STATE_LANGUAGE_5
+
+};
+
+extern unsigned char __CHANGER_FLAG__;
+extern unsigned char __UPPER_LIMIT_FLAG__;
+extern unsigned char __LOWER_LIMIT_FLAG__;
+extern unsigned char __ALARM_TRIGGERED_FLAG__ ;
+void smLoop(void);
+
+#endif
